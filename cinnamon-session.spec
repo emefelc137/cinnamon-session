@@ -3,7 +3,7 @@
 
 Summary: Cinnamon session manager
 Name:    cinnamon-session
-Version: 6.6.1
+Version: 6.6.4
 Release: 1
 URL:     https://cinnamon.linuxmint.com
 Source0: https://github.com/linuxmint/cinnamon-session/archive/%{version}/%{name}-%{version}.tar.gz
